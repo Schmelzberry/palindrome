@@ -14,7 +14,8 @@ namespace PalindromeChecker.Models
 
     public char[] UserArray()
     {
-      return Pal.ToCharArray();
+      char[] charArray = Pal.ToCharArray();
+      return charArray;
     }
   }
 }
