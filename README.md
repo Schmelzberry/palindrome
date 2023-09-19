@@ -7,7 +7,7 @@
 ## Technologies Used
 * .NET
 * C#
-*VSCode
+* VSCode
 
 ### Setup Instructions
 
