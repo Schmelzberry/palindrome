@@ -1,4 +1,4 @@
-# Palindrome-Check
+# Palindrome Check
 
 #### By Jake Elsberry, Joey Palchak, Seth Gonzales, Paul LeTourneau
 
